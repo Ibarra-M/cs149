@@ -1,0 +1,112 @@
+    1  sudo snap install clion --classic
+    2  sudo apt install  gcc
+    3  sudo apt install make
+    4  sudo snap install kate
+    5  sudo snap install kate --classic
+    6  kate
+    7  exit
+    8  cd /Desktop/Homework
+    9  cd /
+   10  cd/Desktop
+   11  cd Desktop
+   12  cd ./Desktop
+   13  cd ../Desktop
+   14  gcc 1.15
+   15  ./1.15
+   16  ./1.15.out
+   17  gcc 1.15.c
+   18  gcc 1.15
+   19  gcc 1.15.c
+   20  cd
+   21  sudo apt update
+   22  cd .../Desktop
+   23  cd
+   24  cd ...
+   25  cd \Desktop
+   26  cd Homework
+   27  gcc 1.15.c
+   28  nano 1.15.c
+   29  ls
+   30  gcc 1.15.c
+   31  nano 1.15.c
+   32  gcc 1.15.c
+   33  ./1.15
+   34  ./a.out
+   35  nano 1.15.c
+   36  gcc 1.15.c
+   37  nano 1.15.c
+   38  gcc 1.15.c
+   39  nano 1.15.c
+   40  gcc 1.15.c
+   41  ./a.out
+   42  gcc 1.15.c
+   43  ./a.out
+   44  nano 1.15.c
+   45  nano 1.15
+   46  gcc 1.15
+   47  gcc 1.15.c
+   48  cd \ws1
+   49  ls
+   50  gcc 1.15.c
+   51  nano 1.16.c
+   52  gcc 1.16.c
+   53  ./a.out
+   54  nano 1.16.c
+   55  gcc ./1.16.c
+   56  ./a.out
+   57  gcc ./1.16.c
+   58  ./a.out
+   59  gcc ./1.16.c
+   60  ./a.out
+   61  pwd
+   62  nano 1.17.c
+   63  gcc ./1.17.c
+   64  ./a.out
+   65  gcc ./1.17.c
+   66  ./a.out
+   67  gcc ./1.17.c
+   68  ./a.out
+   69  gcc ./1.17.c
+   70  ./a.out
+   71  gcc ./1.17.c
+   72  ./a.out
+   73  gcc -0 1.17 ./1.17.c
+   74  gcc -o 1.17 ./1.17.c
+   75  ./1.17a.out
+   76  ./1.17.out
+   77  ./1.17
+   78  nano 1.16.c
+   79  nano 1.17.c
+   80  gcc  1.17.c
+   81  ./a.out
+   82  nano 1.18.c
+   83  nano  1.17.c
+   84  nano 1.18.c
+   85  gcc 1.18.c
+   86  ./a.out
+   87  nano 1.19.c
+   88  gcc 1.19.c
+   89  ./a.out
+   90  nano 1.20.c
+   91  gcc 1.20.c
+   92  ./a.out
+   93  pwd
+   94  cd Desktop/
+   95  ls
+   96  ls -latr
+   97  mkdir cs149
+   98  cd cs149
+   99  git init
+  100  cd
+  101  sudo apt install git
+  102  git config --global user.email "ibarrama91@yahoo.com"
+  103  git config --global user.name "Mark Ibarra"
+  104  dir WS1
+  105  mkdir WS1
+  106  cd WS1
+  107  git add .
+  108  get -O out.pdf https://tinyurl.com/yy94j1tt
+  109  wget -O out.pdf https://tinyurl.com/yy94j1tt
+  110  ls -latr
+  111  history > cmds.log *.c
+  112  history > cmds.log
