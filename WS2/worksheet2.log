@@ -1,0 +1,147 @@
+    1  pwd
+    2  cd
+    3  pwd
+    4  cd ../../etc
+    5  pwd
+    6  cd pwd
+    7  cd
+    8  ls
+    9  cd /Desktop
+   10  cd Desktop
+   11  mkdir test
+   12  cd tet
+   13  cd /tet
+   14  cd /test
+   15  cd test
+   16  nano texttest
+   17  ls
+   18  mkdir anotherfolder
+   19  ls
+   20  cd
+   21  cd Desktop/test
+   22  ls output.txt
+   23  ls > output.txt
+   24  ls
+   25  cat output
+   26  cat output.txt
+   27  la
+   28  ls
+   29  cat output.txt
+   30  echo "This is a test"
+   31  echo "This is a test" >output.txt
+   32  cd Desktop
+   33  cd
+   34  cd Desktop
+   35  rm test/
+   36  rm /test
+   37  rm test
+   38  rmdir test
+   39  sudo rmdir test
+   40  rm test
+   41  rm -i test
+   42  rm -fi test
+   43  rmdir -fi test
+   44  rmdir -i test
+   45  rmdir -f test
+   46  rm -rf test
+   47  nano TERMINALCOMMANDS.txt
+   48  cd
+   49  sudo apt-get update
+   50  sudo apt-get upgrade
+   51  sudo apt install discord
+   52  sudo snap install discord
+   53  discord
+   54  sudo snap install chrome
+   55  lspci -vnnn | perl -lne 'print if /^\d+\:.+(\[\S+\:\S+\])/' | grep VGA
+   56  nvidia-settings
+   57  nvidia-smi
+   58  apt search nvdidia-driver
+   59  apt-cache search nvidia-driver
+   60  prime-select query
+   61  grep . /sys/devices/system/cpu/cpu*/cpufreq/scaling_driver
+   62  cd /sys
+   63  cd /devices/system/cpu
+   64  ls
+   65  cd ./devices/system/cpu
+   66  ls
+   67  cd cpufreq
+   68  ls
+   69  nano boost
+   70  boost
+   71  cat boost
+   72  ls
+   73  file *
+   74  nano boost.txt
+   75  cd
+   76  cpupower frequency-info
+   77  sudo dmesg | grep MHz~
+   78  sudo dmesg | grep MHz
+   79  sudo dmesg | grep "MHz processor"
+   80  lscpu
+   81  lscpu | grep "MHz"
+   82  sudo apt install chrome-gnome-shell
+   83  lscpu | grep "MHz"
+   84  lscpu
+   85  lscpu | grep "MHz"
+   86  sudo dmesg | grep "MHz processor"
+   87  lscpu | grep MHz
+   88  clear history
+   89  clear
+   90  cd Desktop
+   91  history > tessster.txt
+   92  ls
+   93  nano tessster.txt
+   94  cd Desktop
+   95  mkdir cs149 ; cd cs149
+   96  git init
+   97  cd
+   98  sudo apt install gcc
+   99  sudo apt install make
+  100  gcc
+  101  gcc --v
+  102  gcc -v
+  103  gcc -version
+  104  sudo apt install kate
+  105  git --version
+  106  sudo apt update
+  107  sudo apt install git
+  108  cd Desktop
+  109  ls
+  110  cd cd149
+  111  cd csd149
+  112  cd cs149
+  113  git init
+  114  git branch
+  115  git clone -b master https://github.com/Ibarra-M/cs149.git
+  116  ls
+  117  cd
+  118  cd desktop
+  119  cd Desktop
+  120  git clone -b master https://github.com/Ibarra-M/cs149.git
+  121  ls
+  122  cd cs149
+  123  ls
+  124  mkdir WS2
+  125  cd WS2
+  126  cd cs149
+  127  cs /
+  128  cd/
+  129  cdcd\
+  130  cd Desktop
+  131  cd cs149
+  132  git config --global user.email ibarrama91@yahoo.com
+  133  git config --global user.name Mark Ibarra
+  134  cd WS2
+  135  git add .
+  136  wget -o out.pdf https://tinyurl.com/yy94jltt
+  137* wget -o out.pdf https://tinyurl.com/yy94jltt
+  138  ls
+  139  date
+  140  pwd
+  141  ls latr
+  142  ls -latr
+  143  echo $?
+  144  man ps
+  145  ps aux
+  146  top
+  147  history > worksheet2.log
