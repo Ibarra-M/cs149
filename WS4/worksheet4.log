@@ -1,0 +1,1000 @@
+  248  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  249  source "$HOME/.cargo/env"
+  250  make
+  251  sudo make install
+  252  source "$HOME/.cargo/env"
+  253  make
+  254  apt install libgtk-3-dev libpango1.0-dev libgdk-pixbuf-2.0-dev libglib2.0-dev cmake libclang-dev libudev-dev libayatana-appindicator3-1
+  255  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  256  source "$HOME/.cargo/env"
+  257  make
+  258  sudo make install
+  259  ls
+  260  cd /etc
+  261  ls
+  262  find asus
+  263  cd
+  264  ls
+  265  cd Downloads
+  266  ls
+  267  cd
+  268  cd $HOME
+  269  cd.cargo
+  270  cd .cargo
+  271  ls
+  272  cd env
+  273  make
+  274  cd
+  275  sudo pat update
+  276  sudo apt update
+  277  sudo apt upgrade
+  278  sudo apt-get update
+  279  sudo apt install inotify-tools
+  280  sudo apt uninstall -notify-tools
+  281  sudo apt uninstall notify-tools
+  282  sudo apt remove notify-tools
+  283  uname -r
+  284  cd Downloads
+  285  ls
+  286  unzip asusctl-4.6.0-rc1.zip
+  287  ls
+  288  cd asusctl-4.6.0-rc1
+  289  sudo apt update
+  290  sudo apt upgrade
+  291  sudo apt install gcc pkg-config openssl libasound2-dev cmake build-essential python3 libfreetype6-dev libexpat1-dev libxcb-composite0-dev libssl-dev libx11-dev libfontconfig1-dev curl libclang-dev libudev-dev checkinstall
+  292  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  293  source "$HOME/.cargo/env"
+  294  make
+  295  sudo make install
+  296  systemctl daemon-reload && systemctl restart asusd
+  297  cd etc
+  298  cd ../etc
+  299  cd ./etc
+  300  ls
+  301  cd ../../etc
+  302  ls
+  303  cd asusd
+  304  ls
+  305  ls latr
+  306  ls a
+  307  lsa
+  308  man ls
+  309  ls -a
+  310  ls
+  311  cd ls
+  312  cd desktop
+  313  cd Desktop
+  314  ls
+  315  cd 
+  316  cd snap
+  317  ls
+  318  cd
+  319  man snap
+  320  sudo snap install zoom
+  321  cd Downloads
+  322  ls
+  323  cd
+  324  cd Downloads
+  325  ls
+  326  sudo apt install ./zoom_amd64.deb
+  327  sudo apt update
+  328  cd
+  329  sudo snap spotify
+  330  sudo snap install spotify
+  331  cd
+  332  prime-select query
+  333  prime-select ?
+  334  prime-select amd
+  335  prime-select intel
+  336  sudo prime-select intel
+  337  sudo prime-select query
+  338  ?
+  339  ls
+  340  cd Desktop
+  341  ls
+  342  cd cs149
+  343  ls
+  344  cd
+  345  spotify
+  346  sudo prime-select query
+  347  sudo prime-select ?
+  348  sudo prime-select on-demand
+  349  sudo lshw
+  350  sudo lshw -display
+  351  sudo lshw -video
+  352  cd
+  353  sudo lshw -video
+  354  sudo lshw --video
+  355  sudo lshw -display
+  356  sudo lshw -video
+  357  sudo lshw -display
+  358  sudo lshw -displaya
+  359  sudo lshw -displayas
+  360  sudo lshw -displays
+  361  sudo lshw -display
+  362  sudo lshw --display
+  363  sudo lshw video
+  364  sudo lshw display
+  365  sudo lshw -videos
+  366  sudo prime-select query
+  367  prime-select query
+  368  prime-select ?
+  369  lspci -nn | grep vga
+  370  lscpi
+  371  lspci
+  372  lspcisudo lshw -C display
+  373  sudo lshw -C display
+  374  glxinfo | grep OpenGL
+  375  DRI_PRIME=1 glxinfo | grep OpenGL
+  376  sudo apt install mesa-utils
+  377  DRI_PRIME=1 glxinfo | grep OpenGL
+  378  prime-select amdgpu
+  379  cd ../../usr/bin
+  380  ls
+  381  cd passwd
+  382  nano passwd
+  383  cd prime-select
+  384  nano prime-select
+  385  cd Desktop
+  386  ls
+  387  ls ls -a
+  388  ls ls --a
+  389  ls --a
+  390  ls -a
+  391  man ls
+  392  ls -al
+  393  ls -alaltr
+  394  cd
+  395  sudo lshw -display
+  396  nvidia-smi
+  397  cat /proc/acpi/bbswitch
+  398  cd ../etc
+  399  cd ../../etc
+  400  ls
+  401  cd default
+  402  cd grub
+  403  ls
+  404  nano grub
+  405  cd
+  406  lshw -c video
+  407  system76-power help
+  408  cd ../../proc
+  409  ls
+  410  cd acpi
+  411  ls
+  412  cd button
+  413  ls
+  414  cd ../../acpit
+  415  cd ../../acpi
+  416  ls
+  417  nano wakeup
+  418  cd
+  419  prime-select intel
+  420  exit
+  421  prime-select query
+  422  sudo prime-select intel
+  423  reboot
+  424  ls
+  425  echo $?
+  426  cd Desktop/cs149
+  427  ls
+  428  chco $?
+  429  echo $?
+  430  pwd
+  431  echo $?
+  432  cd ../../Desktop
+  433  ls
+  434  nano TERMINALCOMMANDS.txt
+  435  ls |sort
+  436  nano TERMINALCOMMANDS.txt
+  437  ulimit -a
+  438  cd Desktop/cs149
+  439  wget https://github.com/torvalds/linux/archive/master.zip
+  440  unzip master.zip
+  441  cd linux-master
+  442  pwd
+  443  alias l='ls -latr
+  444  exit
+  445  alias 1='ls -latr
+  446  alias l='ls -latr'
+  447  l
+  448  find . -name mem.c
+  449  find . -name mem.c | xargs head
+  450  find . -name mem.c | xargs gerp 86
+  451  find . -name mem.c | xargs grep 86
+  452  cd ..
+  453  history > worksheet3.log
+  454  head worksheet3.log
+  455  tail worksheet3.log
+  456  mkdir WS3
+  457  mv worksheet3.log ./WS#
+  458  mv worksheet3.log ./worksheet3.log
+  459  mv WS# ./worksheet3.log
+  460  gcc 4.14.c
+  461  cd WS3
+  462  gcc 4.14.c
+  463  ./a
+  464  ls
+  465  ./a.out
+  466  gcc 4.14.c
+  467  ./a.out
+  468  gcc 4.14.c
+  469  ./a.out
+  470  gcc 4.14.c
+  471  ./a.out
+  472  gcc 4.14.c
+  473  ./a.out
+  474  gcc 4.14.c
+  475  ./a.out
+  476  gcc 4.14.c
+  477  ./a.out
+  478  gcc 4.14.c
+  479  ./a.out
+  480  gcc 4.14.c
+  481  ./a.out
+  482  gcc 4.14.c
+  483  ./a.out
+  484  gcc 4.14.c
+  485  ./a.out
+  486  gcc 4.14.c
+  487  ./a.out
+  488  gcc 4.14.c
+  489  ./a.out
+  490  gcc 4.14.c
+  491  ./a.out
+  492  gcc 4.14.c
+  493  ./a.out
+  494  gcc 4_16.c
+  495  ./a.out
+  496  gcc 4_16.c
+  497  ./a.out
+  498  gcc 4_16.c
+  499  ./a.out
+  500  gcc 4_16.c
+  501  ./a.out
+  502  gcc 4_16.c
+  503  ./a.out
+  504  gcc 4_16.c
+  505  ./a.out
+  506  gcc 4_16.c
+  507  ./a.out
+  508  gcc 4_16.c
+  509  ./a.out
+  510  gcc 4_16.c
+  511  ./a.out
+  512  gcc 4_16.c
+  513  5
+  514  ./a.out
+  515  gcc 4_16.c
+  516  ./a.out
+  517  gcc 4_16.c
+  518  ./a.out
+  519  gcc 4_16.c
+  520  ./a.out
+  521  gcc 4_16.c
+  522  ./a.out
+  523  gcc 4_16.c
+  524  ./a.out
+  525  gcc 4_16.c
+  526  ./a.out
+  527  gcc 4_16.c
+  528  ./a.out
+  529  gcc 4_16.c
+  530  ./a.out
+  531  gcc 4_16.c
+  532  ./a.out
+  533  gcc 5_16.c
+  534  ./a.out
+  535  gcc 5_16.c
+  536  ./a.out
+  537  gcc 5_16.c
+  538  ./a.out
+  539  2
+  540  gcc 5_16.c
+  541  ./a.out
+  542  gcc 5_16.c
+  543  ./a.out
+  544  gcc 5_16.c
+  545  ./a.out
+  546  gcc 5_16.c
+  547  ./a.out
+  548  echo $?
+  549  gcc 5_16.c
+  550  ./a.out
+  551  gcc 5_16.c
+  552  ./a.out
+  553  3
+  554  gcc 5_16.c
+  555  ./a.out
+  556  3
+  557  ./a.out
+  558  gcc 5_16.c
+  559  ./a.out
+  560  gcc 5_16.c
+  561  ./a.out
+  562  gcc 5_16.c
+  563  ./a.out
+  564  gcc 5_16.c
+  565  ./a.out
+  566  gcc 5_16.c
+  567  ./a.out
+  568  gcc 5_16.c
+  569  ./a.out
+  570  gcc 5_16.c
+  571  ./a.out
+  572  gcc 5_16.c
+  573  ./a.out
+  574  gcc 5_16.c
+  575  ./a.out
+  576  gcc 5_16.c
+  577  ./a.out
+  578  gcc 5_16.c
+  579  ./a.out
+  580  gcc 5_16.c
+  581  ./a.out
+  582  gcc 5_16.c
+  583  ./a.out
+  584  gcc 5_16.c
+  585  ./a.out
+  586  gcc 5_16.c
+  587  ./a.out
+  588  gcc 5_16.c
+  589  ./a.out
+  590  gcc 5_16.c
+  591  ./a.out
+  592  gcc 5_16.c
+  593  ./a.out
+  594  gcc 5_17.c
+  595  ./a.out
+  596  gcc 5_17.c
+  597  ./a.out
+  598  gcc 5_17.c
+  599  ./a.out
+  600  gcc 5_17.c
+  601  ./a.out
+  602  gcc 5_17.c
+  603  ./a.out
+  604  gcc 5_17.c
+  605  ./a.out
+  606  10 20 30 40 50 60 70 80 90 -1
+  607  ./a.out
+  608  gcc 5_17.c
+  609  ./a.out
+  610  gcc 5_17.c
+  611  ./a.out
+  612  gcc 5_17.c
+  613  5 -1
+  614  gcc 5_17.c
+  615  ./a.out
+  616  gcc 5_17.c
+  617  ./a.out
+  618  gcc 5_17.c
+  619  ./a.out
+  620  gcc 5_17.c
+  621  ./a.out
+  622  gcc 5_1.c
+  623  gcc 5_18.c
+  624  ./a.out
+  625  gcc 5_18.c
+  626  ./a.out
+  627  gcc 5_18.c
+  628  ./a.out
+  629  gcc 5_18.c
+  630  ./a.out
+  631  gcc 5_18.c
+  632  ./a.out
+  633  gcc 5_18.c
+  634  ./a.out
+  635  gcc 5_18.c
+  636  ./a.out
+  637  gcc 5_18.c
+  638  ./a.out
+  639  gcc 5_18.c
+  640  ./a.out
+  641  gcc 5_18.c
+  642  ./a.out
+  643  gcc 5_18.c
+  644  ./a.out
+  645  gcc 5_18.c
+  646  ./a.out
+  647  gcc 5_18.c
+  648  ./a.out
+  649  gcc 5_18.c
+  650  ./a.out
+  651  gcc 5_18.c
+  652  ./a.out
+  653  gcc 5_18.c
+  654  ./a.out
+  655  gcc 5_18.c
+  656  ./a.out
+  657  gcc 5_18.c
+  658  ./a.out
+  659  gcc 5_18.c
+  660  ./a.out
+  661  gcc 5_18.c
+  662  ./a.out
+  663  gcc 5_18.c
+  664  ./a.out
+  665  gcc 5_18.c
+  666  ./a.out
+  667  gcc 5_18.c
+  668  ./a.out
+  669  gcc 5_18.c
+  670  ./a.out
+  671  gcc 5_18.c
+  672  ./a.out
+  673  gcc 5_18.c
+  674  ./a.out
+  675  gcc 5_18.c
+  676  ./a.out
+  677  gcc 5_18.c
+  678  ./a.out
+  679  gcc 5_18.c
+  680  ./a.out
+  681  gcc 5_18.c
+  682  ./a.out
+  683  gcc 5_21.c
+  684  ./a.out
+  685  gcc 5_21.c
+  686  ./a.out
+  687  gcc 5_21.c
+  688  ./a.out
+  689  gcc 5_21.c
+  690  ./a.out
+  691  gcc 5_21.c
+  692  ./a.out
+  693  gcc 5_21.c
+  694  ./a.out
+  695  gcc 5_21.c
+  696  gcc 5_22.c
+  697  ./a.out
+  698  gcc 5_22.c
+  699  ./a.out
+  700  gcc 5_22.c
+  701  ./a.out
+  702  gcc 5_22.c
+  703  ./a.out
+  704  gcc 5_22.c
+  705  ./a.out
+  706  gcc 5_22.c
+  707  ./a.out
+  708  gcc 5_22.c
+  709  ./a.out
+  710  gcc 5_23.c
+  711  ./a.out
+  712  gcc 5_23.c
+  713  gcc 5_22.c
+  714  ./a.out
+  715  ls
+  716  rm a.out
+  717  ls
+  718  cd ../
+  719  git commit -m "worksheet3" -a
+  720  cd WS3
+  721  git add.
+  722  git add .
+  723  git commit -m "worksheet 3" -a
+  724  git branch
+  725  git push -u origin master
+  726  cd ../
+  727  mkdir TEST
+  728  cd TEST
+  729  git pull
+  730  git init
+  731  git clone -b master https://github.com/Ibarra-M/cs149.git cs149_MarkIbarra
+  732  ls
+  733  cd cs149_MarkIbarra
+  734  ls
+  735  cd WS3
+  736  ls
+  737  gcc 5_21.c
+  738  ./a.out
+  739  2
+  740  gcc 5_21.c
+  741  ./a.out
+  742  cd ../
+  743  cd cs149
+  744  cd WS3
+  745  gcc 5_21.c
+  746  ./a.out
+  747  gcc 5_21.c
+  748  ./a.out
+  749  cd Desktop/cs149
+  750  mkdir AS1
+  751  cd AS1
+  752  kate countnames.c
+  753  cd ../
+  754  cd WS2
+  755  ls
+  756  kate 2_25.c
+  757  cd ../
+  758  ls
+  759  rmdir AS1
+  760  rm -f AS1
+  761  rm -fr AS1
+  762  ls
+  763  mkdir A1
+  764  cd A1
+  765  create countnames.c
+  766  nano countnames.c
+  767  kate countnames.c
+  768  ls
+  769  ./countnames names.txt
+  770  gcc countnames.c
+  771  ./a.out
+  772  gcc countnames.c
+  773  ./a.out
+  774  gcc countnames.c
+  775  gcc countnames.c
+  776  ./a.out
+  777  gcc countnames.c
+  778  ./a.out
+  779  gcc countnames.c
+  780  ./a.out
+  781  gcc countnames.c
+  782  ./a.out
+  783  gcc countnames.c
+  784  ./a.out
+  785  gcc countnames.c
+  786  ./a.out
+  787  gcc countnames.c
+  788  ./a.out
+  789  ./countnames names.txt
+  790  ./countnames.c names.txt
+  791  ./a.out names.txt
+  792  ./a names.txt
+  793  ./a.out names.txt
+  794  gcc countnames.c
+  795  ./a.out names.txt
+  796  gcc countnames.c
+  797  ./a.out names.txt
+  798  gcc countnames.c
+  799  ./a.out names.txt
+  800  gcc countnames.c
+  801  ./a.out names.txt
+  802  gcc countnames.c
+  803  ./a.out names.txt
+  804  gcc countnames.c
+  805  ./a.out names.txt
+  806  gcc countnames.c
+  807  ./a.out names.txt
+  808  gcc countnames.c
+  809  ./a.out names.txt
+  810  gcc countnames.c
+  811  ./a.out
+  812  gcc countnames.c
+  813  ./a.out
+  814  gcc countnames.c
+  815  ./a.out
+  816  gcc countnames.c
+  817  ./a.out
+  818  gcc countnames.c
+  819  ./a.out
+  820  gcc countnames.c
+  821  ./a.out
+  822  gcc -o countnames countnames.c -Wall -Werror
+  823  ./countnames names.txt
+  824  ./countnames names.txt > /dev/null
+  825  ./countnames names.txt 2> /dev/null
+  826  ./countnames names.txt
+  827  gcc -o countnames countnames.c -Wall -Werror
+  828  ./countnames names.txt
+  829  gcc -o countnames countnames.c -Wall -Werror
+  830  ./countnames names.txt
+  831  gcc -o countnames countnames.c -Wall -Werror
+  832  ./countnames names.txt
+  833  gcc -o countnames countnames.c -Wall -Werror
+  834  ./countnames names.txt
+  835  gcc -o countnames countnames.c -Wall -Werror
+  836  ./countnames names.txt
+  837  gcc -o countnames countnames.c -Wall -Werror
+  838  ./countnames names.txt
+  839  gcc -o countnames countnames.c -Wall -Werror
+  840  ./countnames names.txt
+  841  gcc -o countnames countnames.c -Wall -Werror
+  842  ./countnames names.txt
+  843  gcc -o countnames countnames.c -Wall -Werror
+  844  ./countnames names.txt
+  845  gcc -o countnames countnames.c -Wall -Werror
+  846  ./countnames names.txt
+  847  gcc -o countnames countnames.c -Wall -Werror
+  848  ./countnames names.txt
+  849  gcc -o countnames countnames.c -Wall -Werror
+  850  ./countnames names.txt
+  851  gcc -o countnames countnames.c -Wall -Werror
+  852  ./countnames names.txt
+  853  gcc -o countnames countnames.c -Wall -Werror
+  854  ./countnames names.txt
+  855  gcc -o countnames countnames.c -Wall -Werror
+  856  ./countnames names.txt
+  857  gcc -o countnames countnames.c -Wall -Werror
+  858  ./countnames names.txt
+  859  gcc -o countnames countnames.c -Wall -Werror
+  860  ./countnames names.txt
+  861  gcc -o countnames countnames.c -Wall -Werror
+  862  ./countnames names.txt
+  863  gcc -o countnames countnames.c -Wall -Werror
+  864  ./countnames names.txt
+  865  gcc -o countnames countnames.c -Wall -Werror
+  866  ./countnames
+  867  ./countnames names.txt
+  868  gcc -o countnames countnames.c -Wall -Werror
+  869  ./countnames names.txt
+  870  gcc -o countnames countnames.c -Wall -Werror
+  871  ./countnames names.txt
+  872  gcc -o countnames countnames.c -Wall -Werror
+  873  ./countnames names.txt
+  874  gcc -o countnames countnames.c -Wall -Werror
+  875  ./countnames names.txt
+  876  gcc -o countnames countnames.c -Wall -Werror
+  877  ./countnames names.txt
+  878  gcc -o countnames countnames.c -Wall -Werror
+  879  ./countnames names.txt
+  880  gcc -o countnames countnames.c -Wall -Werror
+  881  ./countnames names.txt
+  882  gcc -o countnames countnames.c -Wall -Werror
+  883  ./countnames names.txt
+  884  gcc -o countnames countnames.c -Wall -Werror
+  885  ./countnames names.txt
+  886  gcc -o countnames countnames.c -Wall -Werror
+  887  ./countnames names.txt
+  888  gcc -o countnames countnames.c -Wall -Werror
+  889  ./countnames names.txt
+  890  gcc -o countnames countnames.c -Wall -Werror
+  891  ./countnames names.txt
+  892  gcc -o countnames countnames.c -Wall -Werror
+  893  ./countnames names.txt
+  894  gcc -o countnames countnames.c -Wall -Werror
+  895  ./countnames names.txt
+  896  gcc -o countnames countnames.c -Wall -Werror
+  897  ./countnames names.txt
+  898  gcc -o countnames countnames.c -Wall -Werror
+  899  ./countnames names.txt
+  900  gcc -o countnames countnames.c -Wall -Werror
+  901  ./countnames names.txt
+  902  gcc -o countnames countnames.c -Wall -Werror
+  903  ./countnames names.txt
+  904  gcc -o countnames countnames.c -Wall -Werror
+  905  ./countnames names.txt
+  906  gcc -o countnames countnames.c -Wall -Werror
+  907  ./countnames names.txt
+  908  gcc -o countnames countnames.c -Wall -Werror
+  909  ./countnames names.txt
+  910  gcc -o countnames countnames.c -Wall -Werror
+  911  ./countnames names.txt
+  912  gcc -o countnames countnames.c -Wall -Werror
+  913  ./countnames names.txt
+  914  gcc -o countnames countnames.c -Wall -Werror
+  915  ./countnames names.txt
+  916  gcc -o countnames countnames.c -Wall -Werror
+  917  ./countnames names.txt
+  918  gcc -o countnames countnames.c -Wall -Werror
+  919  ./countnames names.txt
+  920  gcc -o countnames countnames.c -Wall -Werror
+  921  ./countnames names.txt
+  922  gcc -o countnames countnames.c -Wall -Werror
+  923  ./countnames names.txt
+  924  gcc -o countnames countnames.c -Wall -Werror
+  925  ./countnames names.txt
+  926  gcc -o countnames countnames.c -Wall -Werror
+  927  ./countnames names.txt
+  928  gcc -o countnames countnames.c -Wall -Werror
+  929  ./countnames names.txt
+  930  gcc -o countnames countnames.c -Wall -Werror
+  931  ./countnames names.txt
+  932  gcc -o countnames countnames.c -Wall -Werror
+  933  ./countnames names.txt
+  934  gcc -o countnames countnames.c -Wall -Werror
+  935  ./countnames names.txt
+  936  gcc -o countnames countnames.c -Wall -Werror
+  937  ./countnames names.txt
+  938  gcc -o countnames countnames.c -Wall -Werror
+  939  ./countnames names.txt
+  940  gcc -o countnames countnames.c -Wall -Werror
+  941  ./countnames names.txt
+  942  gcc -o countnames countnames.c -Wall -Werror
+  943  ./countnames names.txt
+  944  gcc -o countnames countnames.c -Wall -Werror
+  945  ./countnames names.txt
+  946  gcc -o countnames countnames.c -Wall -Werror
+  947  ./countnames names.txt
+  948  gcc -o countnames countnames.c -Wall -Werror
+  949  ./countnames names.txt
+  950  gcc -o countnames countnames.c -Wall -Werror
+  951  ./countnames names.txt
+  952  gcc -o countnames countnames.c -Wall -Werror
+  953  ./countnames names.txt
+  954  gcc -o countnames countnames.c -Wall -Werror
+  955  ./countnames names.txt
+  956  gcc -o countnames countnames.c -Wall -Werror
+  957  ./countnames names.txt
+  958  gcc -o countnames countnames.c -Wall -Werror
+  959  ./countnames names.txt
+  960  gcc -o countnames countnames.c -Wall -Werror
+  961  ./countnames names.txt
+  962  gcc -o countnames countnames.c -Wall -Werror
+  963  ./countnames names.txt
+  964  gcc -o countnames countnames.c -Wall -Werror
+  965  ./countnames names.txt
+  966  gcc -o countnames countnames.c -Wall -Werror
+  967  ./countnames names.txt
+  968  gcc -o countnames countnames.c -Wall -Werror
+  969  ./countnames names.txt
+  970  gcc -o countnames countnames.c -Wall -Werror
+  971  ./countnames names.txt
+  972  gcc -o countnames countnames.c -Wall -Werror
+  973  ./countnames names.txt
+  974  gcc -o countnames countnames.c -Wall -Werror
+  975  ./countnames names.txt
+  976  gcc -o countnames countnames.c -Wall -Werror
+  977  ./countnames names.txt
+  978  gcc -o countnames countnames.c -Wall -Werror
+  979  ./countnames names.txt
+  980  gcc -o countnames countnames.c -Wall -Werror
+  981  ./countnames names.txt
+  982  gcc -o countnames countnames.c -Wall -Werror
+  983  ./countnames names.txt
+  984  gcc -o countnames countnames.c -Wall -Werror
+  985  ./countnames names.txt
+  986  gcc -o countnames countnames.c -Wall -Werror
+  987  ./countnames names.txt
+  988  gcc -o countnames countnames.c -Wall -Werror
+  989  ./countnames names.txt
+  990  gcc -o countnames countnames.c -Wall -Werror
+  991  ./countnames names.txt
+  992  gcc -o countnames countnames.c -Wall -Werror
+  993  ./countnames names.txt
+  994  gcc -o countnames countnames.c -Wall -Werror
+  995  ./countnames names.txt
+  996  gcc -o countnames countnames.c -Wall -Werror
+  997  ./countnames names.txt
+  998  gcc -o countnames countnames.c -Wall -Werror
+  999  ./countnames names.txt
+ 1000  gcc -o countnames countnames.c -Wall -Werror
+ 1001  ./countnames names.txt
+ 1002  gcc -o countnames countnames.c -Wall -Werror
+ 1003  ./countnames names.txt
+ 1004  gcc -o countnames countnames.c -Wall -Werror
+ 1005  ./countnames names.txt
+ 1006  gcc -o countnames countnames.c -Wall -Werror
+ 1007  ./countnames names.txt
+ 1008  gcc -o countnames countnames.c -Wall -Werror
+ 1009  ./countnames names.txt
+ 1010  gcc -o countnames countnames.c -Wall -Werror
+ 1011  ./countnames names.txt
+ 1012  gcc -o countnames countnames.c -Wall -Werror
+ 1013  ./countnames names.txt
+ 1014  gcc -o countnames countnames.c -Wall -Werror
+ 1015  ./countnames names.txt
+ 1016  gcc -o countnames countnames.c -Wall -Werror
+ 1017  ./countnames names.txt
+ 1018  gcc -o countnames countnames.c -Wall -Werror
+ 1019  ./countnames names.txt
+ 1020  gcc -o countnames countnames.c -Wall -Werror
+ 1021  ./countnames names.txt
+ 1022  gcc -o countnames countnames.c -Wall -Werror
+ 1023  ./countnames names.txt
+ 1024  gcc -o countnames countnames.c -Wall -Werror
+ 1025  ./countnames names.txt
+ 1026  gcc -o countnames countnames.c -Wall -Werror
+ 1027  ./countnames names.txt
+ 1028  gcc -o countnames countnames.c -Wall -Werror
+ 1029  ./countnames names.txt
+ 1030  gcc -o countnames countnames.c -Wall -Werror
+ 1031  ./countnames names.txt
+ 1032  gcc -o countnames countnames.c -Wall -Werror
+ 1033  ./countnames names.txt
+ 1034  gcc -o countnames countnames.c -Wall -Werror
+ 1035  ./countnames names.txt
+ 1036  gcc -o countnames countnames.c -Wall -Werror
+ 1037  ./countnames names.txt
+ 1038  gcc -o countnames countnames.c -Wall -Werror
+ 1039  ./countnames names.txt
+ 1040  gcc -o countnames countnames.c -Wall -Werror
+ 1041  ./countnames names.txt
+ 1042  gcc -o countnames countnames.c -Wall -Werror
+ 1043  ./countnames names.txt
+ 1044  gcc -o countnames countnames.c -Wall -Werror
+ 1045  ./countnames names.txt
+ 1046  gcc -o countnames countnames.c -Wall -Werror
+ 1047  ./countnames names.txt
+ 1048  gcc -o countnames countnames.c -Wall -Werror
+ 1049  ./countnames names.txt
+ 1050  gcc -o countnames countnames.c -Wall -Werror
+ 1051  ./countnames names.txt
+ 1052  gcc -o countnames countnames.c -Wall -Werror
+ 1053  ./countnames names.txt
+ 1054  gcc -o countnames countnames.c -Wall -Werror
+ 1055  ./countnames names.txt
+ 1056  gcc -o countnames countnames.c -Wall -Werror
+ 1057  ./countnames names.txt
+ 1058  gcc -o countnames countnames.c -Wall -Werror
+ 1059  ./countnames names.txt
+ 1060  gcc -o countnames countnames.c -Wall -Werror
+ 1061  ./countnames names.txt
+ 1062  gcc -o countnames countnames.c -Wall -Werror
+ 1063  ./countnames names.txt
+ 1064  gcc -o countnames countnames.c -Wall -Werror
+ 1065  ./countnames names.txt
+ 1066  gcc -o countnames countnames.c -Wall -Werror
+ 1067  ./countnames names.txt
+ 1068  gcc -o countnames countnames.c -Wall -Werror
+ 1069  ./countnames names.txt
+ 1070  gcc -o countnames countnames.c -Wall -Werror
+ 1071  ./countnames names.txt
+ 1072  gcc -o countnames countnames.c -Wall -Werror
+ 1073  ./countnames names.txt
+ 1074  gcc -o countnames countnames.c -Wall -Werror
+ 1075  ./countnames names.txt
+ 1076  gcc -o countnames countnames.c -Wall -Werror
+ 1077  ./countnames names.txt
+ 1078  gcc -o countnames countnames.c -Wall -Werror
+ 1079  ./countnames names.txt
+ 1080  gcc -o countnames countnames.c -Wall -Werror
+ 1081  ./countnames names.txt
+ 1082  gcc -o countnames countnames.c -Wall -Werror
+ 1083  ./countnames names.txt
+ 1084  CLEAR
+ 1085  clear
+ 1086  gcc -o countnames countnames.c -Wall -Werrorclea
+ 1087  ./countnames names.txt
+ 1088  gcc -o countnames countnames.c -Wall -Werrorclea
+ 1089  gcc -o countnames countnames.c -Wall -Werror
+ 1090  ./countnames names.txt
+ 1091  gcc -o countnames countnames.c -Wall -Werror
+ 1092  ./countnames names.txt
+ 1093  gcc -o countnames countnames.c -Wall -Werror
+ 1094  ./countnames names.txt
+ 1095  gcc -o countnames countnames.c -Wall -Werror
+ 1096  ./countnames names.txt
+ 1097  gcc -o countnames countnames.c -Wall -Werror
+ 1098  ./countnames names.txt
+ 1099  gcc -o countnames countnames.c -Wall -Werror
+ 1100  ./countnames names.txt
+ 1101  ./countnames
+ 1102  gcc -o countnames countnames.c -Wall -Werror
+ 1103  ./countnames
+ 1104  ./countnames names.txt
+ 1105  gcc -o countnames countnames.c -Wall -Werror
+ 1106  ./countnames names.txt
+ 1107  gcc -o countnames countnames.c -Wall -Werror
+ 1108  ./countnames names.txt
+ 1109  gcc -o countnames countnames.c -Wall -Werror
+ 1110  ./countnames names.txt
+ 1111  gcc -o countnames countnames.c -Wall -Werror
+ 1112  ./countnames names.txt
+ 1113  gcc -o countnames countnames.c -Wall -Werror
+ 1114  ./countnames names.txt
+ 1115  gcc -o countnames countnames.c -Wall -Werror
+ 1116  ./countnames names.txt
+ 1117  gcc -o countnames countnames.c -Wall -Werror
+ 1118  ./countnames names.txt
+ 1119  ./countnames names_long_redundant.txt
+ 1120  gcc -o countnames countnames.c -Wall -Werror
+ 1121  ./countnames names_long_redundant.txt
+ 1122  gcc -o countnames countnames.c -Wall -Werror
+ 1123  ./countnames names_long_redundant.txt
+ 1124  ./countnames names_long_redundant.txt 2> /dev/null
+ 1125  cd ../
+ 1126  cd WS3
+ 1127  gcc 5_21.c
+ 1128  ./a.out
+ 1129  gcc -o countnames countnames.c -Wall -Werror
+ 1130  ./countnames names_long_redundant.txt
+ 1131  gcc -o countnames countnames.c -Wall -Werror
+ 1132  ./countnames names_long_redundant.txt
+ 1133  gcc -o countnames countnames.c -Wall -Werror
+ 1134  ./countnames names_long_redundant.txt
+ 1135  cat names_long_redundant.txt
+ 1136  ./countnames names_long_redundant.txt
+ 1137  gcc -o countnames countnames.c -Wall -Werror
+ 1138  ./countnames names_long_redundant.txt
+ 1139  gcc -o countnames countnames.c -Wall -Werror
+ 1140  ./countnames names.txt
+ 1141  gcc -o countnames countnames.c -Wall -Werror
+ 1142  ./countnames names.txt
+ 1143  gcc -o countnames countnames.c -Wall -Werror
+ 1144  ./countnames names_long_redundant.txt
+ 1145  gcc -o countnames countnames.c -Wall -Werror
+ 1146  ./countnames names.txt
+ 1147  gcc -o countnames countnames.c -Wall -Werror
+ 1148  ./countnames names.txt
+ 1149  gcc -o countnames countnames.c -Wall -Werror
+ 1150  git add .
+ 1151  git commit -m "Assignment 1" -a
+ 1152  git branch
+ 1153  git push -u origin master
+ 1154  cd ../../
+ 1155  ls
+ 1156  cd TEST
+ 1157  git pull
+ 1158  ls
+ 1159  cd cs149_MarkIBarra
+ 1160  cd cs149_MarkIbarra
+ 1161  git pull
+ 1162  ls
+ 1163  cd a1
+ 1164  cd /A1
+ 1165  cd A1
+ 1166  ls
+ 1167  ./countnames names.txt
+ 1168  shutdown
+ 1169  shutdown -c
+ 1170  man shutdown
+ 1171  shut-off
+ 1172  power-off
+ 1173  man shutdown
+ 1174  poweroff
+ 1175  pwd
+ 1176  cd Desktop
+ 1177  ls
+ 1178  cs149
+ 1179  cd cs149
+ 1180  cd Desktop/cs149
+ 1181  ls
+ 1182  cd WS1
+ 1183  ls
+ 1184  lseek cmds.log
+ 1185  1seek cmds.log
+ 1186  sleepl cmds.log
+ 1187  lseek
+ 1188  seek
+ 1189  lseek man
+ 1190  man lseek
+ 1191  read cmds.log
+ 1192  ls | more
+ 1193  latr |more
+ 1194  lsatr
+ 1195  latr
+ 1196  lart
+ 1197  ls
+ 1198  ls | more
+ 1199  more
+ 1200  ls | less
+ 1201  exit
+ 1202  cd Desktop/cs149
+ 1203  ls
+ 1204  mkdir WS4
+ 1205  cd WS4
+ 1206  nano 6_20.c
+ 1207  ls
+ 1208  kate 6_20.c
+ 1209  ls
+ 1210  gcc 6_20.c
+ 1211  kate 6_20.c 
+ 1212  gcc 6_20.c
+ 1213  ./a.out
+ 1214  kate 6_20.c 
+ 1215  gcc 6_20.c
+ 1216  ./a.out
+ 1217  kate 6_20.c 
+ 1218  gcc 6_20.c
+ 1219  ./a.out
+ 1220  kate 6_30.c
+ 1221  gcc 6_30.c
+ 1222  nano 6_30.c
+ 1223  gcc 6_30.c
+ 1224  ./a.out
+ 1225  cd
+ 1226  wget http://www.apuebook.com/src.3e.tar.gz
+ 1227  gunzip src.3e.tar.gz
+ 1228  tar xvf src.3e.tar
+ 1229  cd apue.3e
+ 1230  cd proc
+ 1231  make all
+ 1232  ./fork1
+ 1233  ./fork2
+ 1234  pwd
+ 1235  pstree
+ 1236  ps -a -f -x
+ 1237  cd
+ 1238  pwd
+ 1239  pstree
+ 1240  ps -a -f -x
+ 1241  ps -a -f -x| more
+ 1242  top
+ 1243  man kill
+ 1244  echo $?
+ 1245  echo $$
+ 1246  cd Desktop/cs149/WS4
+ 1247  history > worksheet4.log
