@@ -1,0 +1,116 @@
+ 1893  cd ../proc
+ 1894  cd
+ 1895  cd proc
+ 1896  cd ../proc
+ 1897  cd /proc
+ 1898  ls
+ 1899  cd
+ 1900  cd apue.3e
+ 1901  cd proc
+ 1902  ls
+ 1903  kate test1.c
+ 1904  gcc test1.c -o test1
+ 1905  gcc  -ansi  -I../include   -DLINUX  -D_GNU_SOURCE  -Wall   -o test1 test1.c  -L../lib -lapue
+ 1906  ./test1
+ 1907  ls
+ 1908  git add *.c
+ 1909  git commit -m "Worksheet 6"
+ 1910  git push -u origin master
+ 1911  cd Desktop/cs149
+ 1912  ls
+ 1913  mkdir WS6
+ 1914  kate 5_27.c
+ 1915  cd WS6
+ 1916  ls
+ 1917  gcc 5_27.c -o 5_27
+ 1918  ./5_27
+ 1919  gcc 5_27.c -o 5_27
+ 1920  ./5_27
+ 1921  gcc 5_27.c -o 5_27
+ 1922  ./5_27
+ 1923  gcc 5_27.c -o 5_27
+ 1924  ./5_27
+ 1925  gcc 5_27.c -o 5_27
+ 1926  ./5_27
+ 1927  gcc 5_27.c -o 5_27
+ 1928  ./5_27
+ 1929  ls
+ 1930  gcc lseek_example.c -o test
+ 1931  ./test
+ 1932  gcc lseek_example.c -o test
+ 1933  ./test
+ 1934  gcc lseek_example.c -o test
+ 1935  ./test
+ 1936  gcc lseek_example.c -o test
+ 1937  ./test
+ 1938  gcc lseek_example.c -o test
+ 1939  ./test
+ 1940  gcc lseek_example.c -o test
+ 1941  ./test
+ 1942  gcc lseek_example.c -o test
+ 1943  ./test
+ 1944  gcc lseek_example.c -o test
+ 1945  ./test
+ 1946  gcc lseek_example.c -o test
+ 1947  ./test
+ 1948  gcc lseek_example.c -o test
+ 1949  ./test
+ 1950  gcc lseek_example.c -o test
+ 1951  ./test
+ 1952  gcc lseek_example.c -o test
+ 1953  ./test
+ 1954  gcc lseek_example.c -o test
+ 1955  ./test
+ 1956  gcc lseek_example.c -o test
+ 1957  ./test
+ 1958  gcc lseek_example.c -o test
+ 1959  ./test
+ 1960  gcc lseek_example.c -o test
+ 1961  ./test
+ 1962  gcc lseek_example.c -o test
+ 1963  ./test
+ 1964  gcc lseek_example.c -o test
+ 1965  ./test
+ 1966  gcc lseek_example.c -o test
+ 1967  ./test
+ 1968  gcc lseek_example.c -o test
+ 1969  ./test
+ 1970  gcc lseek_example.c -o test
+ 1971  ./test
+ 1972  gcc lseek_example.c -o test
+ 1973  ./test
+ 1974  gcc lseek_example.c -o test
+ 1975  ./test
+ 1976  gcc lseek_example.c -o test
+ 1977  ./test
+ 1978  gcc lseek_example.c -o test
+ 1979  ./test
+ 1980  gcc lseek_example.c -o test
+ 1981  ./test
+ 1982  gcc lseek_example.c -o test
+ 1983  ./test
+ 1984  gcc lseek_example.c -o test
+ 1985  ./test
+ 1986  gcc lseek_example.c -o test
+ 1987  ./test
+ 1988  gcc lseek_example.c -o test
+ 1989  ./test
+ 1990  gcc lseek_example.c -o test
+ 1991  ./test
+ 1992  gcc lseek_example.c -o test
+ 1993  ./test
+ 1994  gcc lseek_example.c -o test
+ 1995  ./test
+ 1996  cd Desktop/
+ 1997  cd cs149
+ 1998  ls
+ 1999  cd WS7
+ 2000  ls|wc
+ 2001  ls|sort
+ 2002  ls|sort|wc
+ 2003  ls -latr /bin/ > a.out
+ 2004  cat a.out | more
+ 2005  strace ls
+ 2006  du -sh .
+ 2007  df -i
+ 2008  history > worksheet7.log
