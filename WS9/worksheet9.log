@@ -1,0 +1,12 @@
+ 1992  gcc sigusr.c -o siguser
+ 1993  make all
+ 1994  gcc sigusr.c -o siguser
+ 1995  make all
+ 1996  ./siguser &
+ 1997  ./sigusr &
+ 1998  kill -SIGUSR 275563
+ 1999  kill -SIGUSR1 275563
+ 2000  kill -SIGUSR2 275563
+ 2001  kill -SIGCONT 275563
+ 2002  kill -9 275563
+ 2003  history > worksheet9.log
