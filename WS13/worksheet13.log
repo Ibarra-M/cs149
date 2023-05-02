@@ -1,0 +1,43 @@
+ 
+ 2002  mkdir WS12
+ 2003  mkdir WS13
+ 2004  cd WS13
+ 2005  ls
+ 2006  cd ../
+ 2007  cd 
+ 2008  ls
+ 2009  cd apue.3e
+ 2010  ls
+ 2011  rsynce -arv filedir/ filedir1/
+ 2012  rsync -arv filedir/ filedir1/
+ 2013  cp -r filedir/ filedir2/
+ 2014  ls -latr filedir1/
+ 2015  ls -latr filedir2/
+ 2016  cd filedir1
+ 2017  ls
+ 2018  ln -s filetype.c filetype_link.txt
+ 2019  ls
+ 2020  rmdir filetype_link.txt
+ 2021  rm filetype_link.txt
+ 2022  ls
+ 2023  du
+ 2024  cd ../
+ 2025  du
+ 2026  cd filedir1/
+ 2027  ls
+ 2028  find -L ./apue.3e/filedir2 -name "*.c"
+ 2029  find -L /apue.3e/filedir2 -name "*.c"
+ 2030  find -L apue.3e/filedir2 -name "*.c"
+ 2031  find -L ../apue.3e/filedir2 -name "*.c"
+ 2032  find -L Home/apue.3e/filedir2 -name "*.c"
+ 2033  find -L Home/apue.3e/filedir1 -name "*.c"
+ 2034  find -L ../filedir2 -name "*.c"
+ 2035  stat filetype.c
+ 2036  df -l
+ 2037  df -k
+ 2038  cd Desktop/cs149/WS13
+ 2039  cd Desktop/cs149/WS12
+ 2040  cd
+ 2041  cd Desktop/cs149/WS13
+ 2042  ls
+ 2043  history > worksheet13.log
